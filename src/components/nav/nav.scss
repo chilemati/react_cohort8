@@ -1,0 +1,39 @@
+//! variables
+$nav-bg: purple;
+$nav-co: white;
+$nav-fs: 2vw;
+
+//!mixim: holds a collection of codes
+@mixin flex {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav{
+  background-color: $nav-bg;
+  font-size: $nav-fs;
+  padding: 0.5rem 2rem;
+  ol{
+      @include flex();
+      list-style-type: none;
+      li{
+          text-transform: capitalize;
+          font-weight: bold;
+          padding: 0.5rem 1rem;
+          border-radius: 8px;
+          box-shadow: 4px 4px 10px rgb(0, 0, 0,0.3);
+          a{
+                color: $nav-co;
+                text-decoration: none;
+        
+            }
+            &:hover{
+                background-color: rgba(0, 128, 2, 0.7);
+                transition: 0.2s ease-in;
+            }
+        }
+
+    }
+}
+

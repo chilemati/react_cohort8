@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "how to be Serious in coding v2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.",
+      "author": "Mr. James",
+      "id": 1
+    },
+    {
+      "title": "how to Swim fast",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.",
+      "author": "Mr. James",
+      "id": 6
+    },
+    {
+      "title": "how to Swim fast v2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.",
+      "author": "Mr. James",
+      "id": 2
+    },
+    {
+      "title": "How to Make the best out of your Scrimba Lessons v2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta aut pariatur adipisci consequuntur quam unde quas tempore. Quaerat, corrupti.",
+      "author": "Mr. Chile",
+      "id": 4
+    }
+  ]
+}
